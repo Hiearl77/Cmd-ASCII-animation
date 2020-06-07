@@ -1,2 +1,2 @@
-# Cmd-ASCII-animation
+# Cmd Project
 The author's name, source, etc. must be indicated.
